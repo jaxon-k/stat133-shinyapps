@@ -1,0 +1,12 @@
+name: app3
+title: app3
+username: jaxonk
+account: jaxonk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14673633
+bundleId: 10221583
+url: https://jaxonk.shinyapps.io/app3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
